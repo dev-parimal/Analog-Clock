@@ -1,2 +1,2 @@
 # Analog-Clock
-https://dev-parimal.github.io/Analog-Clock/analogClock.html
+[Demo Link](https://dev-parimal.github.io/Analog-Clock/analogClock.html)
